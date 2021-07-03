@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/npm/v/avnsystems/web3-providers-ws.svg?style=for-the-badge" alt="language-used"/>
+    <img src="https://img.shields.io/npm/v/web3-providers-ws.svg?style=for-the-badge" alt="language-used"/>
   </a>
 
   <a href="#">
@@ -15,7 +15,7 @@
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/github/contributors/google/styleguide.svg?style=for-the-badge">
+    <img src="https://img.shields.io/github/contributors/avnsystems/web3-providers-ws.svg?style=for-the-badge">
   </a>
 
   <a href="#">
@@ -28,10 +28,6 @@
 
   <a href="#">
     <img src="https://img.shields.io/github/issues/avnsystems/web3-providers-ws.svg?style=for-the-badge">
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/github/license/avnsystems/web3-providers-ws.svg?style=for-the-badge">
   </a>
 
   <h3 align="center">This is a fork of web3-providers-ws that uses <a href="https://github.com/avnsystems/websocket-node">@avnsystems/websocket-node</a></h3>
